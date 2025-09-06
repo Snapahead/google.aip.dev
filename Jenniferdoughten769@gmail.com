@@ -1,0 +1,1 @@
+[![.github/workflows/docker-publish.yml](https://github.com/Snapahead/google.aip.dev/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/Snapahead/google.aip.dev/actions/workflows/docker-publish.yml)
